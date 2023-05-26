@@ -199,7 +199,7 @@ const InternalConfig = function (initConfig) { // eslint-disable-line no-unused-
 		 * @default
 		 * @type {string}
 		 */
-		executable: 'HawaiiRacer',
+		executable: '',
 		/**
 		 * An alternative name for the game pck to load. The executable name is used otherwise.
 		 *
